@@ -1,0 +1,3 @@
+paltas = 8000
+papas = 2000
+cerveza = 10000
